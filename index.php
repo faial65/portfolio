@@ -187,7 +187,7 @@ $stmt = $project->getAllProjects();
 </section>
 
 <footer id="contact">
-    <p>Contact me at: <strong>youremail@example.com</strong></p>
+    <p>Contact me at: <strong>ahmed2107061@stud.kuet.ac.bd</strong></p>
     <p>&copy; 2025 Faisal Ahmed Portfolio</p>
 </footer>
 
