@@ -35,6 +35,7 @@ $stmt = $project->getAllProjects();
             <li><a href="#skills" class="nav-link">Skills</a></li>
             <li><a href="#projects" class="nav-link">Projects</a></li>
             <li><a href="#contact" class="nav-link contact-btn">Contact</a></li>
+            <li><a href="admin_login.php" class="nav-link" style="color:#ff5e57;font-weight:bold;">Admin?</a></li>
         </ul>
     </nav>
     <div class="mobile-toggle">
